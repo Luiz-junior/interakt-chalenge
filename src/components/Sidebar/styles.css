@@ -1,0 +1,20 @@
+.sidebar-container {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    height: 100%;
+    background: #1a237e;
+    max-width: 50px;
+    
+} 
+
+.sidebar-container ul {
+    list-style-type: none;
+    color: #fff;    
+}
+
+.icon-list {
+    margin-left: -30px;
+    margin-bottom: -20px;
+    color: #fff
+}

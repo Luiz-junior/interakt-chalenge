@@ -1,0 +1,13 @@
+.headerContainer {
+    display: flex;
+    height: 50px;
+    background: #eee;
+    justify-content: space-between;
+}
+.headerContainer h3 {
+    margin: 15px 0 0 25px;
+}
+
+.headerContainer .icon-user {
+    margin: 15px 25px 0 0;
+}
